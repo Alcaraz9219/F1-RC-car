@@ -1,0 +1,27 @@
+﻿Item,Quantity,Unit,Description
+Arduino UNO R4,1,unit,Main controller for the car
+Arduino UNO R3,1,unit,Controller/remote
+ESP32 Plus STEAMakers,1,unit,Development and testing board
+Servo motor,1,unit,Steering system
+L298N,1,unit,DC motor driver
+DC geared motor,2,units,Rear-wheel drive motors
+433 MHz transmitter/receiver module,1,set,Original wireless transmission and reception system
+NRF24L01 PA+LNA,2,units,Wireless communication between car and controller
+SG90 servo motor,1,unit,DRS mechanism
+Battery holder,1,unit,Holder for the car batteries
+3.7 V lithium battery,2,units,Power source for the car
+LM2596 buck converter,1,unit,Voltage regulation
+Terminal blocks,6,units,Electrical connections
+Jumper wires,42,units,Electrical connections
+Switch,1,unit,Power switch
+16x2 I2C LCD,1,unit,Controller display
+Joystick,1,unit,Steering control
+Push button,2,units,Accelerator and brake controls
+9 V battery,1,unit,Power source used during development/testing
+Screws,56,units,Mechanical assembly
+Wood screws,4,units,Mechanical assembly
+Washers,4,units,Mechanical assembly
+Nuts,10,units,Mechanical assembly
+Threaded inserts,12,units,Mechanical assembly
+Tires,4,units,Four wheels of the car
+Gray PETG filament,1,kg roll,Material used for 3D-printed parts
