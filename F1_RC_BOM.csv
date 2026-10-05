@@ -1,0 +1,27 @@
+﻿Item,Quantity,Unit,Description,Estimated Price (€)
+Arduino UNO R4 WiFi,1,unit,Main car microcontroller,30.0
+Arduino UNO R3,1,unit,Remote controller microcontroller,29.0
+ESP32 Plus STEAMakers,1,unit,Controller prototype; ultimately not used,30.0
+20KG metal gear steering servo,1,unit,Front steering servo,15.0
+L298N motor driver,1,unit,Dual DC motor driver,4.0
+Geared DC motors,2,unit,Rear-wheel drive motors,15.0
+433 MHz RF transmitter/receiver set,1,set,Initial wireless communication system,5.0
+NRF24L01 PA+LNA modules,2,unit,Long-range wireless transceivers,10.0
+SG90 servo,1,unit,DRS actuator,3.0
+2x18650 battery holder,1,unit,Battery holder,2.0
+3.7 V lithium batteries,2,unit,18650 cells,10.0
+LM2596 buck converter,1,unit,Adjustable DC-DC voltage regulator,2.0
+Terminal blocks,6,unit,Electrical connections,3.0
+Jumper wires,42,unit,Approximate quantity used,3.0
+Power switch,1,unit,Main power switch,2.0
+16x2 I2C LCD,1,unit,Remote controller display,5.0
+Joystick module,1,unit,Remote steering input,2.0
+Push buttons,2,unit,Accelerator and brake controls,1.0
+9 V battery,1,unit,Prototype/testing power source,2.0
+Machine screws,56,unit,Fasteners,5.0
+Wood screws,4,unit,Fasteners,1.0
+Washers,4,unit,Fasteners,1.0
+Nuts,10,unit,Fasteners,1.0
+Threaded inserts,12,unit,Threaded inserts for printed parts,5.0
+Tires,4,unit,Four wheels,8.0
+Gray PETG filament,1,kg roll,3D printing material,20.0
